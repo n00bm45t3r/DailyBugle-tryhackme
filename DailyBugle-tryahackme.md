@@ -2,6 +2,7 @@
 This is my first write-up for the box Daily-Bugle on tryhackme.com
  
 Running an nmap scan on the machine reveals the following:
+
 ![Screenshot](https://github.com/n00bmasterr/writeups/blob/master/nmapscan.png?raw=true)
 
 Upon running gobuster we find that there is a couple of interesting directories.
