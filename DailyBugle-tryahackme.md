@@ -1,4 +1,4 @@
-# writeups
+# Daily Bugle --tryhackme.com
 This is my first write-up for the box Daily-Bugle on tryhackme.com
  
 Running an nmap scan on the machine reveals the following:
